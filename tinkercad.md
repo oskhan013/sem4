@@ -66,7 +66,7 @@ void loop()
  delay(2500);
 }
 ```
-[CIRCUIT2](emb3.png)
+[CIRCUIT3](emb3.png)
 
 ## Practical 4.
 ### Aim: Program using Ultrasonic sensors.
